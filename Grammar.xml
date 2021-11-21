@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<grammar version="1.0" xml:lang="ru-RU" root="Spells"
+xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics-ms/1.0">
+
+	<rule id = "Spells" scope = "public">
+
+		<one-of>
+			<item>
+				авада<ruleref uri="#Sp"/><tag> $.cmd = "avadakedavra"</tag>
+			</item>
+			<item>
+				экспел<tag> $.cmd = "expelliarmus"</tag>
+			</item>
+			<item>
+				ку<tag> $.cmd = "KU"</tag>
+			</item>
+	</one-of>
+
+</rule>
+<rule id="Sp" scope="private">
+	<one-of>
+		<item>
+			кедавра<tag> $ = "Kedavra"</tag>
+		</item>
+		</one-of>
+	</rule>
+</grammar>

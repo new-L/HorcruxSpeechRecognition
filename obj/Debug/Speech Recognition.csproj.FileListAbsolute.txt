@@ -1,0 +1,9 @@
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.exe
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.pdb
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\bin\Debug\Microsoft.Speech.dll
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csprojAssemblyReference.cache
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csproj.CoreCompileInputs.cache
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csproj.CopyComplete
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.exe
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.pdb
+D:\C#\Speech Recognition\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.exe.config
